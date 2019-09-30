@@ -1,0 +1,4 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula9\exemploPOO\poo.ALuno\obj\Debug\netcoreapp2.2\POO.Aluno.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula9\exemploPOO\poo.ALuno\obj\Debug\netcoreapp2.2\POO.Aluno.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula9\exemploPOO\poo.ALuno\obj\Debug\netcoreapp2.2\POO.Aluno.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula9\exemploPOO\poo.ALuno\obj\Debug\netcoreapp2.2\POO.Aluno.AssemblyInfo.cs

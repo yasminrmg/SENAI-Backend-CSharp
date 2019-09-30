@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula10\POO.Pessoa\bin\Debug\netcoreapp2.2\POO.Pessoa.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula10\POO.Pessoa\bin\Debug\netcoreapp2.2\POO.Pessoa.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula10\POO.Pessoa\bin\Debug\netcoreapp2.2\POO.Pessoa.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula10\POO.Pessoa\bin\Debug\netcoreapp2.2\POO.Pessoa.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula10\POO.Pessoa\bin\Debug\netcoreapp2.2\POO.Pessoa.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula10\POO.Pessoa\obj\Debug\netcoreapp2.2\POO.Pessoa.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula10\POO.Pessoa\obj\Debug\netcoreapp2.2\POO.Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula10\POO.Pessoa\obj\Debug\netcoreapp2.2\POO.Pessoa.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula10\POO.Pessoa\obj\Debug\netcoreapp2.2\POO.Pessoa.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula10\POO.Pessoa\obj\Debug\netcoreapp2.2\POO.Pessoa.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula10\POO.Pessoa\obj\Debug\netcoreapp2.2\POO.Pessoa.pdb

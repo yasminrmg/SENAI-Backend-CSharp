@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10\poo.produtos\bin\Debug\netcoreapp2.2\POO.Produtos.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10\poo.produtos\bin\Debug\netcoreapp2.2\POO.Produtos.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10\poo.produtos\bin\Debug\netcoreapp2.2\POO.Produtos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10\poo.produtos\bin\Debug\netcoreapp2.2\POO.Produtos.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10\poo.produtos\bin\Debug\netcoreapp2.2\POO.Produtos.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10\poo.produtos\obj\Debug\netcoreapp2.2\POO.Produtos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10\poo.produtos\obj\Debug\netcoreapp2.2\POO.Produtos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10\poo.produtos\obj\Debug\netcoreapp2.2\POO.Produtos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10\poo.produtos\obj\Debug\netcoreapp2.2\POO.Produtos.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10\poo.produtos\obj\Debug\netcoreapp2.2\POO.Produtos.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula10\poo.produtos\obj\Debug\netcoreapp2.2\POO.Produtos.pdb

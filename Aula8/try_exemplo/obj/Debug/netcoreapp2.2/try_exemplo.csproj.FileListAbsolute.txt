@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula8\try_exemplo\obj\Debug\netcoreapp2.2\try_exemplo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula8\try_exemplo\obj\Debug\netcoreapp2.2\try_exemplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula8\try_exemplo\obj\Debug\netcoreapp2.2\try_exemplo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula8\try_exemplo\obj\Debug\netcoreapp2.2\try_exemplo.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula8\try_exemplo\bin\Debug\netcoreapp2.2\try_exemplo.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula8\try_exemplo\bin\Debug\netcoreapp2.2\try_exemplo.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula8\try_exemplo\bin\Debug\netcoreapp2.2\try_exemplo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula8\try_exemplo\bin\Debug\netcoreapp2.2\try_exemplo.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula8\try_exemplo\bin\Debug\netcoreapp2.2\try_exemplo.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula8\try_exemplo\obj\Debug\netcoreapp2.2\try_exemplo.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula8\try_exemplo\obj\Debug\netcoreapp2.2\try_exemplo.pdb
