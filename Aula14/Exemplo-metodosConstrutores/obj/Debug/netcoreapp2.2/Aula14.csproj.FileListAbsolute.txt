@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14\Exemplo-metodosConstrutores\bin\Debug\netcoreapp2.2\Aula14.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14\Exemplo-metodosConstrutores\bin\Debug\netcoreapp2.2\Aula14.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14\Exemplo-metodosConstrutores\bin\Debug\netcoreapp2.2\Aula14.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14\Exemplo-metodosConstrutores\bin\Debug\netcoreapp2.2\Aula14.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14\Exemplo-metodosConstrutores\bin\Debug\netcoreapp2.2\Aula14.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14\Exemplo-metodosConstrutores\obj\Debug\netcoreapp2.2\Aula14.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14\Exemplo-metodosConstrutores\obj\Debug\netcoreapp2.2\Aula14.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14\Exemplo-metodosConstrutores\obj\Debug\netcoreapp2.2\Aula14.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14\Exemplo-metodosConstrutores\obj\Debug\netcoreapp2.2\Aula14.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14\Exemplo-metodosConstrutores\obj\Debug\netcoreapp2.2\Aula14.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\aula14\Exemplo-metodosConstrutores\obj\Debug\netcoreapp2.2\Aula14.pdb
